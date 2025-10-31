@@ -16,3 +16,6 @@
 
 ## 其他文章
 - [为什么在 Python 中关闭文件很重要？为什么在Python中关闭文件很重要？ 作者：Ian Currie2022年4 - 掘金](https://juejin.cn/post/7109994141290856479)
+
+## 工具
+- [Python Extension Packages for Windows - Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
