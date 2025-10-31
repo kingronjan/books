@@ -5,6 +5,9 @@
 ## 资讯
 - [豌豆花下猫](https://pythoncat.top/) python 潮流周刊
 
+## 博客
+- [技术文章\_鲲鹏Web数据抓取 - 专业Web数据采集服务提供商](https://www.site-digger.com/html/articles/)
+
 ## 项目学习
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) 500 lines or less
 - [500 Lines or LessA Web Crawler With asyncio Coroutines](https://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html) python 创始人用 asyncio 写异步爬虫
